@@ -1,5 +1,5 @@
 # bookbot
 
-This is the first project for the boot.dev backend developer roadmap
+Bookbot is my first project
 
-My first project
+This is the first project for the boot.dev backend developer roadmap
